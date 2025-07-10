@@ -39,8 +39,8 @@ This Power BI project provides a dynamic sales dashboard for a fictional retail 
 
 ### 📸 Dashboard Preview
 
-![Hyper Store Sales Dashboard](![Screenshot 2025-07-10 095306](https://github.com/user-attachments/assets/f7352f42-7647-403d-b830-a1e63dc04fc2)
-)
+![Screenshot 2025-07-10 095306](https://github.com/user-attachments/assets/f7352f42-7647-403d-b830-a1e63dc04fc2)
+
 
 ---
 
